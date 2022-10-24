@@ -1,2 +1,2 @@
 # Dar Academy
-* Solve leetcode tasks
+* Solved leetcode tasks
